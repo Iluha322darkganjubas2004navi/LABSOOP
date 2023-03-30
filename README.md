@@ -1,2 +1,3 @@
 # LABSOOP
-! [DIAGRAM]OOPPROJ.png
+Strelets Ilya 153504
+![DIAGRAM](OOPPROJ.png)
