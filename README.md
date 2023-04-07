@@ -1,3 +1,3 @@
 # LABSOOP
 Strelets Ilya 153504
-![DIAGRAM](OOPPROJ.png)
+![DIAGRAM](RASPISANIE.png)
